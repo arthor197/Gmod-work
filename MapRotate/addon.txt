@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"			"Map Change"
+	"version"		"1.0"
+	"up_date"		"24/09/2014"
+	"author_name"		"Kyle Smith"
+	"author_email"		"kyle.smithy2@gmail.com"
+	"author_url"		"N/A"
+	"info"			"This is a simple auto Map Change addon."
+	"override"		"0"
+}
